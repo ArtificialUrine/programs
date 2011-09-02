@@ -22,4 +22,4 @@ result5 = result3/result4;
 cout << "The midpoint is found at " << result1 << "," << result2;
 cout << " The slope of the line is " << result5;
 return 0;
-}
+} //END OF MAIN
